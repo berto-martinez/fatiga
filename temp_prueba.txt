@@ -1,0 +1,11 @@
+Node Number	Imported Body Temperature (K)	
+1	293	
+2	293	
+3	293	
+4	293	
+5	293	
+6	293	
+7	293	
+8	293	
+9	293	
+10	293
